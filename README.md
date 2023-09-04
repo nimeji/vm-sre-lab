@@ -3,4 +3,4 @@
 - open a new powershell window
 - run ```Set-ExecutionPolicy unrestricted```
 - run ```. { iwr -useb https://boxstarter.org/bootstrapper.ps1 } | iex; Get-Boxstarter -Force```
-- run ```Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/GameHackingAcademy/vmsetup/master/vmsetup.txt -DisableReboots```
+- run ```Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/nimeji/vm-sre-lab/master/setup.box -DisableReboots```
