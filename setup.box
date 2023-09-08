@@ -5,4 +5,4 @@ cinst cheatengine
 cinst x64dbg.portable
 cinst procmon
 cinst procexp
-cinst visualstudio2022community
+cinst dbgview
